@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="https://raw.githubusercontent.com/humairdata7/humairdata7/main/banner.svg" alt="Data Analyst Banner" />
 </p>
 
