@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/humairdata7/humairdata7/main/banner.svg" alt="Data Analyst Banner" />
-</p>
-
+<img align="right" alt="Data Analyst Banner" width="380" src="https://raw.githubusercontent.com/humairdata7/humairdata7/main/banner.svg" />
 <h1 align="center">Hi 👋, I'm Muhammad Humair</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan | Power BI, SQL, Excel, Python | Open to EU opportunities</h3>
 
