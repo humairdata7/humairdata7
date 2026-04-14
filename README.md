@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Data Analyst Banner" />
+  <img src="https://raw.githubusercontent.com/humairdata7/humairdata7/main/banner.svg" alt="Data Analyst Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Humair</h1>
