@@ -1,0 +1,52 @@
+<!-- Neon Animated Banner -->
+<p align="center">
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" rx="24" fill="url(#bg)"/>
+  <circle cx="90" cy="90" r="42" fill="#111827" stroke="#22d3ee" stroke-width="3"/>
+  <text x="72" y="98" fill="#22d3ee" font-size="28" font-family="Arial" font-weight="bold">MH</text>
+  <text x="160" y="85" fill="white" font-size="40" font-family="Arial" font-weight="bold">Muhammad Humair | Data Analyst</text>
+  <text x="160" y="125" fill="#67e8f9" font-size="24" font-family="Arial">SQL • Excel • Power BI • Python • Dashboards</text>
+  <rect x="160" y="155" width="520" height="8" rx="4" fill="#22d3ee"/>
+  <g transform="translate(700,40)">
+    <rect x="0" y="120" width="36" height="80" rx="6" fill="#22d3ee"/>
+    <rect x="60" y="90" width="36" height="110" rx="6" fill="#06b6d4"/>
+    <rect x="120" y="60" width="36" height="140" rx="6" fill="#67e8f9"/>
+  </g>
+</svg>
+</p>
+
+<h1 align="center">Hi 👋, I'm Muhammad Humair</h1>
+<h3 align="center">A passionate Data Analyst from Pakistan | Power BI, SQL, Excel, Python | Open to EU opportunities</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=humairdata7&label=Profile%20views&color=0e75b6&style=flat" alt="humairdata7" /> </p>
+
+- 🔭 I’m currently working on **Amazon Dashboard**
+- 🌱 I’m currently learning **Advanced DAX, Python for Data Analysis, and ETL workflows**
+- 👯 I’m looking to collaborate on **Power BI Dashboards and SQL Data Analysis Projects**
+- 🤝 I’m looking for help with **Advanced DAX, ETL workflows, and Cloud Data Analytics**
+- 👨‍💻 All of my projects are available at **LinkedIn**
+- 💬 Ask me about **Dashboard storytelling, KPI reporting, SQL queries, and data cleaning**
+- 📫 How to reach me **humairrajput2400@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/humair12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad humair" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humairdata7&show_icons=true&locale=en&layout=compact" alt="humairdata7" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humairdata7&show_icons=true&locale=en" alt="humairdata7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humairdata7&" alt="humairdata7" /></p>
