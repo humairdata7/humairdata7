@@ -1,4 +1,20 @@
-<img align="right" alt="Data Analyst Banner" width="380" src="https://raw.githubusercontent.com/humairdata7/humairdata7/main/banner.svg" />
+<h1>Hi 👋, I'm Muhammad Humair</h1>
+<h3>A passionate Data Analyst from Pakistan</h3>
+<p>Power BI • SQL • Excel • Python • Open to EU opportunities</p>
+
+- 🔭 Working on **Amazon Dashboard**
+- 🌱 Learning **Advanced DAX + ETL**
+- 👯 Collaborating on **Power BI Dashboards**
+- 💬 Ask me about **SQL, KPIs, dashboards**
+- 📫 **humairrajput2400@gmail.com**
+
+</td>
+
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/humairdata7/humairdata7/main/banner.svg" width="100%" />
+</td>
+</tr>
+</table>
 <h1 align="center">Hi 👋, I'm Muhammad Humair</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan | Power BI, SQL, Excel, Python | Open to EU opportunities</h3>
 
