@@ -25,7 +25,7 @@ Currently **open to remote** Data Analyst, BI Analyst, and Reporting Analyst opp
 
 | Project | Tools | Link |
 |---------|-------|------|
-| 📊 Sales Performance Dashboard | Power BI, Excel | [View →](https://github.com/humairdata7) |
+| 📊 Sales Performance Dashboard | Power BI, Excel | [View →][(https://github.com/humairdata7)](https://github.com/humairdata7/PowerBI-Sales-Dashboard/tree/main) |
 | 📗 HR Analytics Dashboard | Excel, Power Query | [View →](https://github.com/humairdata7) |
 | 📉 Financial KPI Report | Power BI, DAX | [View →](https://github.com/humairdata7) |
 
