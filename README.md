@@ -12,35 +12,28 @@ Currently **open to remote** Data Analyst, BI Analyst, and Reporting Analyst opp
 
 ## 🛠️ Tools & Skills
 
-| Tool | What I Do With It |
-|------|-------------------|
-| **Power BI** | Dashboards, KPI cards, slicers, DAX measures |
-| **Excel** | Data cleaning, Pivot Tables, Power Query, charts |
-| **SQL / MySQL** | Joins, GROUP BY, subqueries, data extraction |
-| **Python** | Pandas, NumPy, data manipulation |
+| Tool            | What I Do With It                                |
+| --------------- | ------------------------------------------------ |
+| **Power BI**    | Dashboards, KPI cards, slicers, DAX measures     |
+| **Excel**       | Data cleaning, Pivot Tables, Power Query, charts |
+| **SQL / MySQL** | Joins, GROUP BY, subqueries, data extraction     |
+| **Python**      | Pandas, NumPy, data manipulation                 |
 
 ---
 
 ## 📂 Featured Projects
 
-| Project | Tools | Link |
-|---------|-------|------|
-| 📊 Sales Performance Dashboard | Power BI, Excel | [View →][(https://github.com/humairdata7)](https://github.com/humairdata7/PowerBI-Sales-Dashboard/tree/main) |
-| 📗 HR Analytics Dashboard | Excel, Power Query | [View →](https://github.com/humairdata7) |
-| 📉 Financial KPI Report | Power BI, DAX | [View →](https://github.com/humairdata7) |
-
-> **Note:** Replace links above with your actual repository links.
+| Project                              | Tools           | Link                                                                 |
+| ------------------------------------- | --------------- | --------------------------------------------------------------------- |
+| 📊 Sales Performance Dashboard        | Power BI, Excel | [View →](https://github.com/humairdata7/PowerBI-Sales-Dashboard)     |
+| 📈 NVIDIA Stock Performance Analysis  | Power BI, DAX   | [View →](https://github.com/humairdata7/NVIDIA-Stock-Dashboard)      |
 
 ---
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-humairdata7.github.io-blue?style=flat-square)](https://humairdata7.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-humair12-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/humair12/)
-[![Email](https://img.shields.io/badge/Email-humairrajput2400@gmail.com-red?style=flat-square&logo=gmail)](mailto:humairrajput2400@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-humairdata7.github.io-blue?style=flat-square)](https://humairdata7.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-humair12-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/humair12/) [![Email](https://img.shields.io/badge/Email-humairrajput2400%40gmail.com-red?style=flat-square&logo=gmail)](mailto:humairrajput2400@gmail.com)
 
 ---
 
 *📍 Faisalabad, Pakistan • Open to remote work (US / UK / EU / GCC)*
-
-
