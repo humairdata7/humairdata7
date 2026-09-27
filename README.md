@@ -22,7 +22,6 @@ Currently **open to remote opportunities** in Python Development, junior softwar
 | **SQLite** | Application database storage and management |
 | **HTML / CSS / JavaScript** | Responsive web application interfaces |
 | **Jinja2** | Dynamic HTML templates for Flask applications |
-| **Chart.js** | Interactive charts and web-based data visualization |
 | **Power BI** | Interactive dashboards, KPI cards, slicers, DAX measures, and business reporting |
 | **SQL / MySQL** | Joins, GROUP BY, subqueries, data extraction, and relational databases |
 | **Excel** | Data cleaning, Pivot Tables, Power Query, VLOOKUP, and charts |
@@ -34,60 +33,9 @@ Currently **open to remote opportunities** in Python Development, junior softwar
 
 | Project | Tools | Link |
 | ------- | ----- | ---- |
-| 💰 **Expense Management System** | Python, Flask, SQLAlchemy, SQLite, HTML, CSS, JavaScript, Jinja2, Chart.js | [View →](https://github.com/humairdata7/Expense-Management-System) |
+| 💰 **Expense Management System** | Python, Flask, SQLAlchemy, SQLite | [View →](https://github.com/humairdata7/Expense-Management-System) |
 | 📊 **Sales Performance Dashboard** | Power BI, DAX, Excel | [View →](https://github.com/humairdata7/PowerBI-Sales-Dashboard) |
 | 📈 **NVIDIA Stock Performance Analysis** | Power BI, DAX, Data Analysis | [View →](https://github.com/humairdata7/NVIDIA-Stock-Dashboard) |
-
----
-
-## 💻 Python Development Project
-
-### Expense Management System
-
-A responsive full-stack expense management web application built using **Python, Flask, Flask-SQLAlchemy, SQLite, HTML, CSS, JavaScript, Jinja2, and Chart.js**.
-
-### Key Features
-
-- Complete CRUD operations
-- Add, edit, delete, and view expenses
-- Expense search
-- Category filtering
-- Amount and date sorting
-- Date-range filtering
-- Pagination
-- Dashboard statistics
-- Recent expenses overview
-- Category-wise reports
-- Monthly expense reports
-- Interactive charts
-- Responsive dashboard interface
-
-**Tech Stack:**  
-`Python` `Flask` `SQLAlchemy` `SQLite` `HTML` `CSS` `JavaScript` `Jinja2` `Chart.js`
-
-[View Expense Management System →](https://github.com/humairdata7/Expense-Management-System)
-
----
-
-## 📊 Data Analytics Projects
-
-### Sales Performance Dashboard
-
-A Power BI dashboard focused on sales performance, business KPIs, category trends, and interactive reporting.
-
-**Tools:**  
-`Power BI` `DAX` `Excel`
-
-[View Project →](https://github.com/humairdata7/PowerBI-Sales-Dashboard)
-
-### NVIDIA Stock Performance Analysis
-
-An analytical Power BI project exploring long-term NVIDIA stock performance, trends, market growth, and business-era comparisons.
-
-**Tools:**  
-`Power BI` `DAX` `Data Analysis`
-
-[View Project →](https://github.com/humairdata7/NVIDIA-Stock-Dashboard)
 
 ---
 
