@@ -1,39 +1,123 @@
 # Hi, I'm Muhammad Humair 👋
 
-### Data Analyst | Power BI • Excel • SQL • Python
+### Python Developer & Data Analyst | Flask • SQLAlchemy • SQLite • Power BI • SQL • Excel
 
-> *Turning raw data into clear, actionable business insights.*
+> *Turning ideas into working software and data into clear business insights.*
 
-I'm an entry-level Data Analyst from **Faisalabad, Pakistan** with a Software Engineering background. I build interactive dashboards, clean messy datasets, and write SQL queries that help businesses understand their data.
+I'm a **Python Developer & Data Analyst** from **Faisalabad, Pakistan**, with a Bachelor's background in **Software Engineering**.
 
-Currently **open to remote** Data Analyst, BI Analyst, and Reporting Analyst opportunities.
+I work across both **Python development and data analytics** — building database-driven web applications using Python, Flask, SQLAlchemy, and SQLite, while also working with SQL, Excel, Power BI, Pandas, and NumPy for data analysis and business reporting.
+
+Currently **open to remote opportunities** in Python Development, junior software development, Data Analytics, and Business Intelligence roles.
 
 ---
 
 ## 🛠️ Tools & Skills
 
-| Tool            | What I Do With It                                |
-| --------------- | ------------------------------------------------ |
-| **Power BI**    | Dashboards, KPI cards, slicers, DAX measures     |
-| **Excel**       | Data cleaning, Pivot Tables, Power Query, charts |
-| **SQL / MySQL** | Joins, GROUP BY, subqueries, data extraction     |
-| **Python**      | Pandas, NumPy, data manipulation                 |
+| Tool / Technology | What I Do With It |
+| ----------------- | ----------------- |
+| **Python** | Application development, backend logic, data processing, and automation |
+| **Flask** | Building Python web applications and backend functionality |
+| **SQLAlchemy** | ORM, database models, queries, and CRUD operations |
+| **SQLite** | Application database storage and management |
+| **HTML / CSS / JavaScript** | Responsive web application interfaces |
+| **Jinja2** | Dynamic HTML templates for Flask applications |
+| **Chart.js** | Interactive charts and web-based data visualization |
+| **Power BI** | Interactive dashboards, KPI cards, slicers, DAX measures, and business reporting |
+| **SQL / MySQL** | Joins, GROUP BY, subqueries, data extraction, and relational databases |
+| **Excel** | Data cleaning, Pivot Tables, Power Query, VLOOKUP, and charts |
+| **Pandas / NumPy** | Data cleaning, transformation, and analysis |
 
 ---
 
 ## 📂 Featured Projects
 
-| Project                              | Tools           | Link                                                                 |
-| ------------------------------------- | --------------- | --------------------------------------------------------------------- |
-| 📊 Sales Performance Dashboard        | Power BI, Excel | [View →](https://github.com/humairdata7/PowerBI-Sales-Dashboard)     |
-| 📈 NVIDIA Stock Performance Analysis  | Power BI, DAX   | [View →](https://github.com/humairdata7/NVIDIA-Stock-Dashboard)      |
+| Project | Tools | Link |
+| ------- | ----- | ---- |
+| 💰 **Expense Management System** | Python, Flask, SQLAlchemy, SQLite, HTML, CSS, JavaScript, Jinja2, Chart.js | [View →](https://github.com/humairdata7/Expense-Management-System) |
+| 📊 **Sales Performance Dashboard** | Power BI, DAX, Excel | [View →](https://github.com/humairdata7/PowerBI-Sales-Dashboard) |
+| 📈 **NVIDIA Stock Performance Analysis** | Power BI, DAX, Data Analysis | [View →](https://github.com/humairdata7/NVIDIA-Stock-Dashboard) |
+
+---
+
+## 💻 Python Development Project
+
+### Expense Management System
+
+A responsive full-stack expense management web application built using **Python, Flask, Flask-SQLAlchemy, SQLite, HTML, CSS, JavaScript, Jinja2, and Chart.js**.
+
+### Key Features
+
+- Complete CRUD operations
+- Add, edit, delete, and view expenses
+- Expense search
+- Category filtering
+- Amount and date sorting
+- Date-range filtering
+- Pagination
+- Dashboard statistics
+- Recent expenses overview
+- Category-wise reports
+- Monthly expense reports
+- Interactive charts
+- Responsive dashboard interface
+
+**Tech Stack:**  
+`Python` `Flask` `SQLAlchemy` `SQLite` `HTML` `CSS` `JavaScript` `Jinja2` `Chart.js`
+
+[View Expense Management System →](https://github.com/humairdata7/Expense-Management-System)
+
+---
+
+## 📊 Data Analytics Projects
+
+### Sales Performance Dashboard
+
+A Power BI dashboard focused on sales performance, business KPIs, category trends, and interactive reporting.
+
+**Tools:**  
+`Power BI` `DAX` `Excel`
+
+[View Project →](https://github.com/humairdata7/PowerBI-Sales-Dashboard)
+
+### NVIDIA Stock Performance Analysis
+
+An analytical Power BI project exploring long-term NVIDIA stock performance, trends, market growth, and business-era comparisons.
+
+**Tools:**  
+`Power BI` `DAX` `Data Analysis`
+
+[View Project →](https://github.com/humairdata7/NVIDIA-Stock-Dashboard)
+
+---
+
+## 🎯 Current Focus
+
+- Python Backend Development
+- Flask Web Applications
+- SQL & Database Management
+- Software Development Fundamentals
+- Data Analytics & Business Intelligence
+- Building practical real-world projects
+
+---
+
+## 🎓 Education
+
+**Bachelor of Software Engineering**  
+Riphah International University, Faisalabad  
+2022 – 2026
 
 ---
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-humairdata7.github.io-blue?style=flat-square)](https://humairdata7.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-humair12-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/humair12/) [![Email](https://img.shields.io/badge/Email-humairrajput2400%40gmail.com-red?style=flat-square&logo=gmail)](mailto:humairrajput2400@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-humairdata7.github.io-blue?style=flat-square)](https://humairdata7.github.io)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-humair12-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/humair12/)
+
+[![Email](https://img.shields.io/badge/Email-humairrajput2400%40gmail.com-red?style=flat-square&logo=gmail)](mailto:humairrajput2400@gmail.com)
 
 ---
 
-*📍 Faisalabad, Pakistan • Open to remote work (US / UK / EU / GCC)*
+*📍 Faisalabad, Pakistan • Python Developer & Data Analyst • Open to remote work (US / UK / EU / GCC)*
